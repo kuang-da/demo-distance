@@ -19,4 +19,3 @@ $(document).ready(function (e) {
 
 // call to draw the scene
 draw();
-draw_alpha();

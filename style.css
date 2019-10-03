@@ -10,6 +10,9 @@ body {
   margin-left: 150px;
 }
 
+#show_button {
+  margin-left: 290px;
+}
 #distance {
   display: flex;
   align-items: center;
