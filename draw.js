@@ -36,7 +36,7 @@ function clear() {
 
 // redraw the scene
 function draw() {
-    console.log('draw the rects!')
+    // console.log('draw the rects!')
     clear();
     ctx.fillStyle = "#FAF7F8";
     rect(0, 0, WIDTH, HEIGHT, 0);

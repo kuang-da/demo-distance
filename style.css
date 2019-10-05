@@ -8,6 +8,13 @@ body {
   display: block;
   border: 1px solid rgb(88, 90, 87);
   margin-left: 150px;
+  display:inline-block;
+}
+
+#result {
+  margin-left: 30px;
+  font-size: 40px;
+  display:inline-block;
 }
 
 #show_button {
@@ -77,6 +84,4 @@ body {
   background-color: #8cccf1;
 }
 
-#result {
-  font-size: 40px;
-}
+

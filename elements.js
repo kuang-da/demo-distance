@@ -8,7 +8,7 @@ canvas.onmouseup = myUp;
 canvas.onmousemove = myMove;
 
 $(document).ready(function (e) {
-    console.log('hello')
+    // console.log('hello')
     cal_ori_matrix()
     cal_pos_matrix()
     $.loadTable('data_table', ['field1', 'field2', 'field3', 'field4', 'field5'], ori_matrix);
